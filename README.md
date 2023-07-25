@@ -19,7 +19,7 @@
 3. Monitor Services для мониторингового сервса
 4. Nginx для сервера nginx
 
-### Dashboards docker containers
+### Dashboards docker containers:
 ![image](https://github.com/MSRaith/monitoring/assets/89347252/a0650098-18fd-45bd-9ce3-bad3e2297568)
 ![image](https://github.com/MSRaith/monitoring/assets/89347252/7b8e843b-8cf6-4d27-9cc1-0ef9de6bc649)
 ![image](https://github.com/MSRaith/monitoring/assets/89347252/58a9085b-2c21-4c8d-b7dd-31ce7896dd24)
