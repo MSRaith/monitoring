@@ -13,7 +13,18 @@
 3. /etc/prometheus/alert.rules > targets
    * monitor_service_down
 
-### Dashbord:
-![image](https://github.com/MSRaith/monitoring/assets/89347252/2336cfe7-5e0b-4cd5-9576-3e86d5b0e506)
+### Dashbord: 
+1. Docker Containers для Docker контейнеров
+2. Docker host для хоста
+3. Monitor Services для мониторингового сервса
+4. Nginx для сервера nginx
 
 ### Dashboards docker containers
+![image](https://github.com/MSRaith/monitoring/assets/89347252/a0650098-18fd-45bd-9ce3-bad3e2297568)
+![image](https://github.com/MSRaith/monitoring/assets/89347252/7b8e843b-8cf6-4d27-9cc1-0ef9de6bc649)
+![image](https://github.com/MSRaith/monitoring/assets/89347252/58a9085b-2c21-4c8d-b7dd-31ce7896dd24)
+
+
+
+
+
